@@ -96,7 +96,7 @@ public class Dog extends Animal
     }
 
 
-    // Живой или нет котик
+    // Живой или нет песик
     public boolean isAlive (boolean sayIt)
     {
         if (alive)
